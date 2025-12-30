@@ -1,4 +1,4 @@
-# End-to-End SQL Data Warehouse (Data Engineering using SQL Server)
+# End-to-End SQL Data Warehouse Project (Data Engineering using SQL Server)
 
 ## 📌 Project Overview
 This repository contains a full **end-to-end Data Engineering implementation** of a **SQL-based Data Warehouse** using **Microsoft SQL Server**.  
