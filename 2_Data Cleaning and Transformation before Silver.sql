@@ -8,7 +8,7 @@ GO
 
 
 /* ============================================================
-   SILVER LAYER – CUSTOMER DATA CLEANING & STANDARDIZATION
+   SILVER LAYER â€“ CUSTOMER DATA CLEANING & STANDARDIZATION
    ------------------------------------------------------------
    Source Table : bronze.crm_cust_info
    Target Table : silver.crm_cust_info
@@ -195,7 +195,7 @@ FROM silver.crm_cust_info;
 
 
 /* ============================================================
-   SILVER LAYER – PRODUCT DATA CLEANING & TRANSFORMATION
+   SILVER LAYER â€“ PRODUCT DATA CLEANING & TRANSFORMATION
    ------------------------------------------------------------
    Source Table : bronze.crm_prd_info
    Target Table : silver.crm_prd_info
@@ -394,7 +394,7 @@ FROM silver.crm_prd_info;
 
 
 /* ============================================================
-   SILVER LAYER – SALES DATA CLEANING & TRANSFORMATION
+   SILVER LAYER â€“ SALES DATA CLEANING & TRANSFORMATION
    ------------------------------------------------------------
    Source Table : bronze.crm_sales_details
    Target Table : silver.crm_sales_details
@@ -614,7 +614,7 @@ FROM silver.crm_sales_details;
 
 
 /* ============================================================
-   SILVER LAYER – ERP CUSTOMER DATA CLEANING & STANDARDIZATION
+   SILVER LAYER â€“ ERP CUSTOMER DATA CLEANING & STANDARDIZATION
    ------------------------------------------------------------
    Source Table : bronze.erp_cust_az12
    Target Table : silver.erp_cust_az12
@@ -740,7 +740,7 @@ FROM silver.erp_cust_az12;
 
 
 /* ============================================================
-   SILVER LAYER – ERP LOCATION DATA CLEANING & STANDARDIZATION
+   SILVER LAYER â€“ ERP LOCATION DATA CLEANING & STANDARDIZATION
    ------------------------------------------------------------
    Source Table : bronze.erp_loc_a101
    Target Table : silver.erp_loc_a101
@@ -824,7 +824,7 @@ FROM silver.erp_loc_a101;
 
 
 /* ============================================================
-   SILVER LAYER – ERP PRODUCT CATEGORY DATA CLEANING
+   SILVER LAYER â€“ ERP PRODUCT CATEGORY DATA CLEANING
    ------------------------------------------------------------
    Source Table : bronze.erp_px_cat_g1v2
    Target Table : silver.erp_px_cat_g1v2
